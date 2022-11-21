@@ -1,5 +1,5 @@
 .div1 {
-  background-color: red;
+  background-color: blue;
   height: 800px;
   width: 70%;
   border-radius: 20px;
@@ -8,7 +8,7 @@
 }
 
 .div2 {
-  background-color: red;
+  background-color: blue;
   height: 800px;
   width: 25%;
   border-radius: 20px;
@@ -17,7 +17,7 @@
 }
 
 .div3 {
-  background-color: red;
+  background-color: blue;
   height: 75px;
   border-radius: 20px;
   width: 40%;
